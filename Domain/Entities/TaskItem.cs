@@ -11,5 +11,6 @@ namespace Domain.Entities
         public string Priority { get; set; } = "Medium"; // Low, Medium, High
         public string Status { get; set; } = "Pending"; // Pending, InProgress, Done
         public Guid? AssigneeUserId { get; set; }
+        public User? Assignee { get; set; }
     }
 }

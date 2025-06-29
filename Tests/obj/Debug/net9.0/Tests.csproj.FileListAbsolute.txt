@@ -106,3 +106,4 @@ C:\Users\mahar\Documents\GitHub\TaskManagementSystem\Tests\obj\Debug\net9.0\refi
 C:\Users\mahar\Documents\GitHub\TaskManagementSystem\Tests\obj\Debug\net9.0\Tests.pdb
 C:\Users\mahar\Documents\GitHub\TaskManagementSystem\Tests\obj\Debug\net9.0\Tests.genruntimeconfig.cache
 C:\Users\mahar\Documents\GitHub\TaskManagementSystem\Tests\obj\Debug\net9.0\ref\Tests.dll
+C:\Users\mahar\Documents\GitHub\TaskManagementSystem\Tests\obj\Debug\net9.0\Tests.sourcelink.json

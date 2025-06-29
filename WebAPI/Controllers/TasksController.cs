@@ -63,5 +63,12 @@ namespace WebAPI.Controllers
             var deleted = await _taskService.DeleteAsync(id);
             return deleted ? NoContent() : NotFound();
         }
+
+        [HttpPatch("{taskId}/assign/{userId}")]
+        public async Task<IActionResult> AssignTaskToUser(Guid taskId, Guid userId)
+        {
+            var updated = await _taskService.UpdateAsync(taskId, new UpdateTaskRequest { AssigneeUserId = userId });
+            return updated ? Ok(new { taskId, assignedTo = userId }) : NotFound();
+        }
     }
 }
