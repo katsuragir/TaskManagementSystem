@@ -29,7 +29,7 @@ TaskManagementSystem/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-repo/TaskManagementSystem.git
+git clone https://github.com/katsuragir/TaskManagementSystem.git
 cd TaskManagementSystem
 ```
 
