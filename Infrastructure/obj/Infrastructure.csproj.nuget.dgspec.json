@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj": {
+    "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\mahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\obj\\",
+        "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\admnikel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admnikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
+              "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
               }
             }
           }
@@ -73,17 +73,17 @@
         }
       }
     },
-    "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
+    "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\admnikel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admnikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -132,17 +132,17 @@
         }
       }
     },
-    "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\mahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\admnikel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mahar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admnikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -154,11 +154,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj"
+              "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj"
               },
-              "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
+              "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
               }
             }
           }
