@@ -56,19 +56,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admnikel\\.nuget\\packages\\": {}
+    "C:\\Users\\mahar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\admnikel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Application\\obj\\",
+      "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\mahar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admnikel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mahar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -80,8 +80,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ridho_nikel\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
+            "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\mahar\\Documents\\GitHub\\TaskManagementSystem\\Domain\\Domain.csproj"
             }
           }
         }
